@@ -35,6 +35,7 @@ collections:
 
   - name: "pages"
     label: "Pages"
+    folder: "src/pages/products"
     create: true
     files:
       - file: "src/pages/index.md"
